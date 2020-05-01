@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 import numpy
 import json
-# cPickle在服务器可以运行
 import cPickle as pkl
 import random
 import gzip
